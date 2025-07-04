@@ -74,7 +74,3 @@ O DevLink é um projeto de código aberto que permite criar e gerenciar uma pág
     └── services/
         └── firebaseConnection.ts
 ```
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
